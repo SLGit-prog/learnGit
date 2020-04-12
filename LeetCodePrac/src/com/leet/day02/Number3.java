@@ -12,7 +12,7 @@ public class Number3 {
     分析：
         二分查找，难度主要在于左右边界的确定。
 
-    自我总结
+    自我总结：
         二分查找只能对有序数组有效，所以优先划定范围再有序的区域内
         即判断 (arr[first] <= arr[mid]) | (arr[mid] <= arr[last])  //找到有序边界范围
         进而判断 (arr[first] <= target && target <= arr[mid]) | (arr[mid] <= target && target <= arr[last])
