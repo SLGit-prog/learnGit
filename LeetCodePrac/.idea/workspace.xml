@@ -13,47 +13,52 @@
     <session id="578035065">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.48" value="2" />
-          <entry key="project.open.time.49" value="2" />
-          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.48" value="3" />
+          <entry key="project.open.time.49" value="3" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.67" value="1" />
+          <entry key="project.open.time.71" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="59" />
-          <entry key="java" value="13592" />
+          <entry key="dummy" value="92" />
+          <entry key="java" value="17641" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13592" />
-          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="JAVA" value="17641" />
+          <entry key="PLAIN_TEXT" value="92" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="26" />
+          <entry key="java" value="46" />
+          <entry key="webp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="26" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
     </session>
@@ -61,10 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leet/day06/Number08.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day12/Number14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+            <state relative-caret-position="1740">
+              <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,49 +78,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leet/day07/Number09.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day13/Number15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="1980">
+              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leet/day08/Number10_doNotFUllyGrasped.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day14/Number16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+            <state relative-caret-position="1860">
+              <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day15/Number17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day16/Number18DpClimbStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day17/Number19DpGrayCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3780">
+              <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leet/day09/Number11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leet/day10/Number12.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leet/day18/Number20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-78">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="120">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/source/code/everyday/HashMapLearn.java">
+        <entry file="jar://D:/java/jdk1.8.0_221/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+            <state relative-caret-position="18540">
+              <caret line="656" selection-start-line="656" selection-end-line="656" />
             </state>
           </provider>
         </entry>
@@ -123,32 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leet/day01/Number1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/leet/day02/Number4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17610">
-              <caret line="633" column="17" selection-start-line="633" selection-start-column="17" selection-end-line="633" selection-end-column="17" />
-              <folding>
-                <element signature="e#19327#19328#0" expanded="true" />
-                <element signature="e#19410#19411#0" expanded="true" />
-                <element signature="e#24331#24332#0" expanded="true" />
-                <element signature="e#24396#24397#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="720">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -183,6 +182,16 @@
         <option value="$PROJECT_DIR$/src/com/leet/day09/Number11.java" />
         <option value="$PROJECT_DIR$/src/com/leet/day10/Number12.java" />
         <option value="$PROJECT_DIR$/src/com/leet/day11/Number13.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day12/Number14.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day13/Number15.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day14/Number16.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day15/Number17.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day16/Number18.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day17/Number19.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day16/Number18DpClimbStairs.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day17/Number19DpGrayCode.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day18/Number19.java" />
+        <option value="$PROJECT_DIR$/src/com/leet/day18/Number20.java" />
       </list>
     </option>
   </component>
@@ -203,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,54 +271,54 @@
               <item name="LeetCodePrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
+              <item name="day13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="day07" type="462c0819:PsiDirectoryNode" />
+              <item name="day14" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="day08" type="462c0819:PsiDirectoryNode" />
+              <item name="day15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="day16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="day17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodePrac" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePrac" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="everyday" type="462c0819:PsiDirectoryNode" />
+              <item name="leet" type="462c0819:PsiDirectoryNode" />
+              <item name="day18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586698704328" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587481248512" />
     <property name="extract.method.default.visibility" value="public" />
   </component>
   <component name="RunDashboard">
@@ -323,13 +333,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Number12">
-    <configuration name="Number06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet.day04.Number06" />
+  <component name="RunManager" selected="Application.Number14">
+    <configuration name="Number14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet.day12.Number14" />
       <module name="LeetCodePrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leet.day04.*" />
+          <option name="PATTERN" value="com.leet.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet.day05.Number07" />
+    <configuration name="Number15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet.day13.Number15" />
       <module name="LeetCodePrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leet.day05.*" />
+          <option name="PATTERN" value="com.leet.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,12 +360,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet.day06.Number08" />
+    <configuration name="Number16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet.day14.Number16" />
       <module name="LeetCodePrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leet.day06.*" />
+          <option name="PATTERN" value="com.leet.day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,12 +373,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet.day09.Number11" />
+    <configuration name="Number17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet.day15.Number17" />
       <module name="LeetCodePrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leet.day09.*" />
+          <option name="PATTERN" value="com.leet.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,12 +386,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leet.day10.Number12" />
+    <configuration name="Number19DpGrayCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leet.day17.Number19DpGrayCode" />
       <module name="LeetCodePrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leet.day10.*" />
+          <option name="PATTERN" value="com.leet.day17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,19 +400,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Number06" />
-      <item itemvalue="Application.Number07" />
-      <item itemvalue="Application.Number08" />
-      <item itemvalue="Application.Number11" />
-      <item itemvalue="Application.Number12" />
+      <item itemvalue="Application.Number14" />
+      <item itemvalue="Application.Number15" />
+      <item itemvalue="Application.Number16" />
+      <item itemvalue="Application.Number17" />
+      <item itemvalue="Application.Number19DpGrayCode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Number12" />
-        <item itemvalue="Application.Number11" />
-        <item itemvalue="Application.Number08" />
-        <item itemvalue="Application.Number07" />
-        <item itemvalue="Application.Number06" />
+        <item itemvalue="Application.Number19DpGrayCode" />
+        <item itemvalue="Application.Number17" />
+        <item itemvalue="Application.Number16" />
+        <item itemvalue="Application.Number15" />
+        <item itemvalue="Application.Number14" />
       </list>
     </recent_temporary>
   </component>
@@ -432,17 +442,35 @@
       <workItem from="1586525596083" duration="3980000" />
       <workItem from="1586608864451" duration="5961000" />
       <workItem from="1586676661701" duration="6017000" />
-      <workItem from="1586694013497" duration="4791000" />
+      <workItem from="1586694013497" duration="7282000" />
+      <workItem from="1586876249130" duration="3000" />
+      <workItem from="1587043623222" duration="5148000" />
+      <workItem from="1587130522114" duration="6657000" />
+      <workItem from="1587216354340" duration="4133000" />
+      <workItem from="1587385404744" duration="6140000" />
+      <workItem from="1587395435854" duration="33000" />
+      <workItem from="1587475275970" duration="5908000" />
+      <workItem from="1587644233030" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64506000" />
+    <option name="totallyTimeSpent" value="95630000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1747851" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19770774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,14 +479,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.05319149" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32845744" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32845744" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -521,36 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
           <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leet/day05/Number07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leet/day06/Number08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leet/day01/Number1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -561,33 +559,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/source/code/everyday/HashMapLearn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17610">
-          <caret line="633" column="17" selection-start-line="633" selection-start-column="17" selection-end-line="633" selection-end-column="17" />
-          <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-            <element signature="e#24331#24332#0" expanded="true" />
-            <element signature="e#24396#24397#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1020">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/source/code/everyday/HashMapLearn.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day10/Number12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        <state relative-caret-position="690">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leet/day08/Number10_doNotFUllyGrasped.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
+        <state relative-caret-position="1320">
           <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day06/Number08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day05/Number07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/250px-Sudoku-by-L2G-20050714.svg.webp" />
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day11/Number13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day07/Number09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -598,27 +623,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leet/day07/Number09.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day12/Number14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leet/day11/Number13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="1740">
+          <caret line="60" column="54" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leet/day10/Number12.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day13/Number15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="1980">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day14/Number16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day15/Number17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day16/Number18DpClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day17/Number19DpGrayCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="131" column="5" selection-start-line="131" selection-start-column="5" selection-end-line="131" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8.0_221/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18540">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day01/Number1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leet/day18/Number20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
